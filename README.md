@@ -72,6 +72,7 @@ This creates/updates `models/phishing_model.pkl`
 
 ## OUTPUT
 
+<img width="1127" height="915" alt="Image" src="https://github.com/user-attachments/assets/4ddec08f-e2a8-4a8d-ad4a-578aa753f8d7" />
 
 
 ## Technical Notes
